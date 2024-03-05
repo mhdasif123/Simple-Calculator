@@ -7,9 +7,9 @@ A straightforward calculator web application built with HTML, CSS, and JavaScrip
 - Clear and intuitive user interface.
 
 # Technologies Used:
-- HTML5: Provides the structure and layout of the calculator.
-- CSS3: Styles the calculator for an attractive and user-friendly appearance.
-- JavaScript: Handles the logic behind the calculator's functionality.
+- **HTML5**: Provides the structure and layout of the calculator.
+- **CSS3**: Styles the calculator for an attractive and user-friendly appearance.
+- **JavaScript**: Handles the logic behind the calculator's functionality.
 
 # Getting Started:
 1. Clone the repository: git clone https://github.com/mhdasif123/simple-calculator.git
